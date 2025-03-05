@@ -1,4 +1,3 @@
 # SCM-Assesment1
-this is my assesment to sdmasdasmdnawja amsmas
-fsnfasfasf
-mfasfasfe
+this is my assesment 
+it is ued to find prime numbers
