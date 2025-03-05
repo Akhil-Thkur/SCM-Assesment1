@@ -15,3 +15,4 @@ def prime_numbers_upto_n(n):
 # Example usage
 n = int(input("Enter a number: "))
 print("Prime numbers up to", n, ":", prime_numbers_upto_n(n))
+
